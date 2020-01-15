@@ -50,7 +50,7 @@ react-native link react-native-fbsdk
   </application>
   ```
 
-- import 해오기
+- import 예시
 
 ```
 import { LoginButton, AccessToken, LoginManager, ShareDialog } from 'react-native-fbsdk';
